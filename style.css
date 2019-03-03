@@ -1,0 +1,46 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+  }
+
+  .tulisan {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      padding: 5px;
+      text-align: center;
+
+
+  } 
+  .modal-header, h4, .close {
+    background-color: #dab618;
+    text-align: center;
+    font-size: 30px;
+  }
+ 
+.tombolKirim {
+    background-color: #dab618;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+
+}
+#feedback{
+    padding: 50px;
+}
+
+.tombolModal {
+    background-color:  #000000;
+    font-size: 20px;
+    color:white;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+
